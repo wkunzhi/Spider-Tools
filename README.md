@@ -22,10 +22,13 @@
 # 支持操作
 - [x] Base64 转换
 - [x] URL 编码转换
-- [x] Hash(md5,md4)等转换
 - [x] 时间戳转换
 - [x] 查询IP信息
 - [x] 本机IP查询
+- [x] 简体 与 繁体字相互转换
+- [x] Unicode 与 Utf8 的相互转换
+- [x] Unicode 与 中文 的相互转换
+- [x] MD2、MD4、SHA1、SHA256、SHA512、CRC32 的 HASH 取值方法
 - [ ] Hook js
 
 等功能。。后续添加中
