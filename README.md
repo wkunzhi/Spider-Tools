@@ -4,31 +4,43 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
-# 11月12日 更新
-- 新增：
-    - 简体 与 繁体字相互转换
-    - Unicode 与 Utf8 的相互转换
-    - Unicode 与 中文 的相互转换
-    - MD2、MD4、SHA1、SHA256、SHA512、CRC32 的 HASH 取值方法
-
-- 修复：
-    - IP查询Bug
+# V1.0 版本
+- [x] 正则匹配测试功能
+  - 可设置全局搜索、区分大小写
+- [x] 一键获取免费代理 IP
+- [x] IP 查询
+  - 查询本机 IP
+  - 查询指定 IP 信息
+- [x] 时间戳
+  - 快速转换时间戳
+  - 获取当前时间戳
+- [x] 转码
+  - URL 编码互转
+  - 简体-繁体互转
+  - Base64互转
+  - utf8-gb2312互转
+  - utf8-Unicode互转
+  - Unicode-中文互转
+- [x] Hash
+  - 取 md5
+  - 取 md4
+  - 取 md2
+  - 取 sha512
+  - 取 sha256
+  - 取 sha1
+  - 取 crc32
 
 # 界面
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/10/WX20191112-142154.png)
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/10/WX20191112-142210.png)
+![WX20191118-162630](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162630.png)
+![WX20191118-162651](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162651.png)
+
+正则测试
+![WX20191118-162835](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162835.png)
+一键获取代理ip
+![WX20191118-162910](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162910.png)
 
 
-# 支持操作
-- [x] Base64 转换
-- [x] URL 编码转换
-- [x] 时间戳转换
-- [x] 查询IP信息
-- [x] 本机IP查询
-- [x] 简体 与 繁体字相互转换
-- [x] Unicode 与 Utf8 的相互转换
-- [x] Unicode 与 中文 的相互转换
-- [x] MD2、MD4、SHA1、SHA256、SHA512、CRC32 的 HASH 取值方法
-- [ ] Hook js
+# QQ 群
+![WX20191118-162701@2x](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png)
 
-等功能。。后续添加中
+
