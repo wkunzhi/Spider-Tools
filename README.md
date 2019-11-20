@@ -29,6 +29,9 @@
   - 取 sha256
   - 取 sha1
   - 取 crc32
+- [x] 页面调试
+  - 抓 Cookie
+  - 捕获通用加密 
 
 # 界面
 ![WX20191118-162630](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162630.png)
@@ -38,6 +41,9 @@
 ![WX20191118-162835](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162835.png)
 一键获取代理ip
 ![WX20191118-162910](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162910.png)
+
+![WX20191120-114234](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/20/wx20191120114234.png)
+
 
 
 # QQ 群
