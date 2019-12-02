@@ -4,7 +4,7 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
-# V1.1 版本
+# V1.3 版本
 - [x] 正则匹配测试功能
   - 可设置全局搜索、区分大小写
 - [x] 一键获取免费代理 IP
@@ -32,6 +32,7 @@
 - [x] 页面调试
   - 抓 Cookie
   - 通用加密包监听
+  - JS 调试
 
 # 界面
 ![WX20191118-162630](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx20191118162630.png)
