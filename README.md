@@ -28,18 +28,18 @@
 
 
 # 免费短信接收
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/phone.png)
+![](https://www.zhangkunzhi.com/images/20191213/phone.png)
 
 # web 调试
-![WX20191120-114234](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/web%E8%B0%83%E8%AF%95.png)
+![WX20191120-114234](https://www.zhangkunzhi.com/images/20191213/web%E8%B0%83%E8%AF%95.png)
 
 # 一键获取代理ip
-![WX20191118-162910](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/%E5%85%8D%E8%B4%B9ip.png)
+![WX20191118-162910](https://www.zhangkunzhi.com/images/20191213/%E5%85%8D%E8%B4%B9ip.png)
 
 # 正则测试
-![WX20191118-162835](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/zz.png)
+![WX20191118-162835](https://www.zhangkunzhi.com/images/20191213/zz.png)
 
 # QQ 群
-![WX20191118-162701@2x](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png)
+![WX20191118-162701@2x](https://www.zhangkunzhi.com//2019/11/18/wx201911181627012x.png)
 
 
