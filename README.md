@@ -4,7 +4,7 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
-# V1.3 版本
+# V1.4 版本
 - [x] 免费短信接收器
 - [x] 正则匹配测试功能
   - 可设置全局搜索、区分大小写
@@ -18,25 +18,14 @@
 - [x] 转码
   - URL 编码互转
   - 简体-繁体互转
-  - Base64互转
-  - utf8-gb2312互转
-  - utf8-Unicode互转
-  - Unicode-中文互转
+  - Base64、utf8、gb2312、Unicode、中文互转
 - [x] Hash
-  - 取 md5
-  - 取 md4
-  - 取 md2
-  - 取 sha512
-  - 取 sha256
-  - 取 sha1
-  - 取 crc32
+  - 取 md5、md4、md2、sha512、sha256、sha1、crc32
 - [x] 页面调试
   - 抓 Cookie
   - 通用加密包监听
   - JS 调试
 
-# 界面
-![WX20191118-162630](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/index.png)
 
 # 免费短信接收
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191213/phone.png)
