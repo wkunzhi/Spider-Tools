@@ -4,7 +4,7 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
-# V1.4 版本
+# V1.5 版本
 - [x] 免费短信接收器
 - [x] 正则匹配测试功能
   - 可设置全局搜索、区分大小写
