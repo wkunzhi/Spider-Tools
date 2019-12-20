@@ -4,6 +4,10 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
+# QQ讨论群 
+**497377504**
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
+
 # V1.5.2 版本
 - [x] 免费短信接收器
 - [x] 正则匹配测试功能
