@@ -4,12 +4,15 @@
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
 
+**Github 下载速度较慢，可以在群文件下载**
+
 # QQ讨论群 
 **497377504**
 
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
 
-# V1.5.2 版本
+# V1.6 版本
+- [x] 验证码自动识别服务 【*】
 - [x] 免费短信接收器
 - [x] 正则匹配测试功能
   - 可设置全局搜索、区分大小写
@@ -35,6 +38,11 @@
 
 # 免费短信接收
 ![](https://www.zhangkunzhi.com/images/20191220/WX20191220-115904.png)
+
+# 验证码自动识别服务
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/12/27/15774383455311.jpg?x-oss-process=image/resize,h_500)
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/12/27/15774382649294.jpg?x-oss-process=image/resize,h_500)
+
 # web 调试
 ![WX20191120-114234](https://www.zhangkunzhi.com/images/20191213/web%E8%B0%83%E8%AF%95.png)
 
