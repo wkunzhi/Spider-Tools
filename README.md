@@ -12,7 +12,7 @@
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
 
 # 功能树
-- [x] 验证码自动识别服务 
+- [x] 验证码自动识别服务 [**API调用方法查看**](https://blog.zhangkunzhi.com/2019/12/27/%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB%E7%A4%BA%E4%BE%8B/index.html)
 - [x] 免费短信接收器
 - [x] 正则匹配测试
 - [x] 一键获取免费代理 IP
@@ -35,6 +35,7 @@
 
 # 验证码自动识别服务
 > API 调用方法与示例 [**文章传送门**](https://blog.zhangkunzhi.com/2019/12/27/%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB%E7%A4%BA%E4%BE%8B/index.html)
+
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101035%402x.png)
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101116.png)
 
