@@ -1,5 +1,5 @@
 # Spider-Tools
-爬虫工具、免费短信接收、包含一些转码、解密、时间戳转换、IP查询、HASH、自动解密等功能，不断更新迭代中， 喜欢就star
+爬虫工具、验证码一键式自动识别、免费短信接收、包含一些转码、解密、时间戳转换、IP查询、HASH、自动解密等功能，不断更新迭代中， 喜欢就star
 
 # 下载
 [**点我下载**](https://github.com/wkunzhi/Spider-Tools/releases)
@@ -12,7 +12,7 @@
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
 
 # V1.6 版本
-- [x] 验证码自动识别服务 【*】
+- [x] 验证码自动识别服务 
 - [x] 免费短信接收器
 - [x] 正则匹配测试功能
   - 可设置全局搜索、区分大小写
@@ -40,8 +40,8 @@
 ![](https://www.zhangkunzhi.com/images/20191220/WX20191220-115904.png)
 
 # 验证码自动识别服务
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/12/27/15774383455311.jpg?x-oss-process=image/resize,h_500)
-![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/12/27/15774382649294.jpg?x-oss-process=image/resize,h_500)
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101035%402x.png)
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101116.png)
 
 # web 调试
 ![WX20191120-114234](https://www.zhangkunzhi.com/images/20191213/web%E8%B0%83%E8%AF%95.png)
