@@ -8,7 +8,10 @@
 
 **Github 下载速度较慢，可以在群文件下载**
 
-# QQ讨论群 
+# 声明
+软件有可能会被杀毒软件误杀，设置信任即可。
+
+### QQ群 
 **497377504**
 
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
