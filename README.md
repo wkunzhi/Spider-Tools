@@ -51,6 +51,7 @@
 
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101035%402x.png)
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/images/20191226/WX20191228-101116.png)
+![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/12/28/15775009530335.jpg?x-oss-process=image/resize,h_500)
 
 # web 调试
 ![WX20191120-114234](https://www.zhangkunzhi.com/images/20191213/web%E8%B0%83%E8%AF%95.png)
