@@ -18,7 +18,7 @@
 
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
 
-# 更新
+# 更新 v1.9
 - 新增：敦煌验证码识别
 - 新增：常用正则匹配语法表
 - 修复：短信接收器Bug修复
