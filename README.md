@@ -18,6 +18,12 @@
 
 ![](https://zok-blog.oss-cn-hangzhou.aliyuncs.com/2019/11/18/wx201911181627012x.png?x-oss-process=image/resize,h_150)
 
+# 更新
+- 新增：敦煌验证码识别
+- 新增：常用正则匹配语法表
+- 修复：短信接收器Bug修复
+- 删除：删除web调试板块，类似工具太多了而且更好用
+
 # 功能树
 - [x] 验证码自动识别服务 [**API调用方法查看**](https://blog.zhangkunzhi.com/2019/12/27/%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB%E7%A4%BA%E4%BE%8B/index.html)
 - [x] 免费短信接收器
